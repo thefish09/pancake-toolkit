@@ -1,20 +1,9 @@
 {
-  "https://tokens.pancakeswap.finance/pancakeswap-default.json": {
-    "name": "PancakeSwap Default",
-    "homepage": "https://pancakeswap.finance"
-  },
-  "https://tokens.pancakeswap.finance/pancakeswap-extended.json": {
-    "name": "PancakeSwap Extended",
-    "homepage": "https://pancakeswap.finance"
-    
-  },
-  "https://tokens.pancakeswap.finance/pancakeswap-top-100.json": {
-    "name": "PancakeSwap Top 100",
-    "homepage": "https://pancakeswap.finance"
-    
-  },
-  "https://tokens.coingecko.com/binance-smart-chain/all.json": {
-    "name": "CoinGecko",
-    "homepage": "https://www.coingecko.com"
-  }
+  "name": "Ava Token",
+  "symbol": "AVT",
+  "address": "0x85a20A8b47Efb9Db62e5634096Ee6f837ae3c440",
+  "chainId": 56,
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/thefish09/logoo/main/token.png"
 }
+
